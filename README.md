@@ -3,10 +3,12 @@
 
 Techologies what I use:
 
-<img src="Tecnologias/androidstd.png" width="100">
-<img src="Tecnologias/java.png" width="100">
+<img src="Tecnologias/androidstd.png" width="100">  <img src="Tecnologias/java.png" width="100">
 <img src="Tecnologias/flutter.png" width="100">
 <img src="Tecnologias/vscode.png" width="100">
+
+
+
 
 
 
