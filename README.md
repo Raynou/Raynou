@@ -3,10 +3,12 @@
 
 Techologies what I use:
 
-![C#](https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/Csharp_Logo.png)
-![flutter](https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/flutter.png)
-![AS](https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/t_androids.png)
-![Java](https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/java.png)
+<img src="https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/Csharp_Logo.png" width="100">
+<img src="https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/flutter.png" width="100">
+<img src="https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/t_androids.png" width="100">
+<img src="https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/java.png" width="100">
+
+
 
 <!--
 **Raynou/Raynou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
