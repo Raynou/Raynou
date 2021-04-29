@@ -3,7 +3,6 @@
   <img alt="GIF de Android" src="Decoracion/android-salute.gif" title="GIF de Android" >
 </p>
 
-### Hello World!!
 <p>
   <h1 align="center">Hola mundo!!</h1>
 </p>
