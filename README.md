@@ -3,10 +3,10 @@
 
 Techologies what I use:
 
-<img src="https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/Csharp_Logo.png" width="100">
-<img src="https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/flutter.png" width="100">
-<img src="https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/t_androids.png" width="100">
-<img src="https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/java.png" width="100">
+<img src="Tecnologias/androidstd.png" width="100">
+<img src="Tecnologias/java.png" width="100">
+<img src="Tecnologias/flutter.png" width="100">
+<img src="Tecnologias/vscode.png" width="100">
 
 
 
