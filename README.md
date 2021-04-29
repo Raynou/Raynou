@@ -15,6 +15,7 @@ Mobile programmer interested in learning API Rest technologies and growing as a 
 <img src="Tecnologias/java.png" width="100px"> <img src="Tecnologias/flutter.png" width="100px"> <img src="Tecnologias/vscode.png" width="100px"> <img src="Tecnologias/androidstd.png" width="100px">
 
 
+## Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raynou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
