@@ -16,7 +16,7 @@ Mobile programmer interested in learning API Rest technologies and growing as a 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raynou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raynou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raynou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
