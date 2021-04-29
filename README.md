@@ -12,7 +12,7 @@ Mobile programmer interested in learning API Rest technologies and growing as a 
 
 ## Techologies what I use:
 
-<img src="Tecnologias/java.png" width="100dp"> <img src="Tecnologias/flutter.png" width="100dp"> <img src="Tecnologias/vscode.png" width="100dp"> <img src="Tecnologias/androidstd.png" width="100dp">
+<img src="Tecnologias/java.png" width="50"> <img src="Tecnologias/flutter.png" width="50"> <img src="Tecnologias/vscode.png" width="50"> <img src="Tecnologias/androidstd.png" width="50">
 
 
 ## Stats:
