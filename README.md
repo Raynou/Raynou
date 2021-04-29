@@ -11,10 +11,10 @@ Mobile programmer interested in learning API Rest technologies and growing as a 
 
 
 ## Techologies what I use:
-<code><img height="60" alt="php" src="Tecnologias/java.png" /></code>
-<code><img height="60" alt="python" src="Tecnologias/flutter.png" /></code>
-<code><img height="60" alt="javascript" src="Tecnologias/vscode.png"/></code>
-<code><img height="60" alt="php" src="Tecnologias/androidstd.png" /></code>
+<code><img height="20" alt="php" src="Tecnologias/java.png" /></code>
+<code><img height="20" alt="python" src="Tecnologias/flutter.png" /></code>
+<code><img height="20" alt="javascript" src="Tecnologias/vscode.png"/></code>
+<code><img height="20" alt="php" src="Tecnologias/androidstd.png" /></code>
 
 
 ## Stats:
