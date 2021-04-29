@@ -1,6 +1,8 @@
 ### Hello World!!
 
-<img src="Decoracion/android-salute.gif">
+<p class="centrado" align="center">
+  <img alt="GIF de Android" src="Decoracion/android-salute.gif" title="GIF de Android" >
+</p>
 
 Mobile programmer interested in learning API Rest technologies and growing as a developer
 
