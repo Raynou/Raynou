@@ -3,7 +3,7 @@
 
 Techologies what I use:
 
-![C#]()
+![C#](https://github.com/Raynou/Raynou/blob/main/Im%C3%A1genes%20para%20mi%20perfil/Csharp_Logo.png)
 
 <!--
 **Raynou/Raynou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
