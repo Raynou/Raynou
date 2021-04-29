@@ -1,7 +1,11 @@
-### Hello World!! Who I am?
-### I am a mobile programmer interested in learning API Rest technologies and growing as a developer
+### Hello World!!
 
-Techologies what I use:
+<img src="Decoracion/android-salute.gif">
+
+Mobile programmer interested in learning API Rest technologies and growing as a developer
+
+
+## Techologies what I use:
 
 <img src="Tecnologias/java.png" width="100"> <img src="Tecnologias/flutter.png" width="100"> <img src="Tecnologias/vscode.png" width="100"> <img src="Tecnologias/androidstd.png" width="100">
 
