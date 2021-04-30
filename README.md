@@ -11,7 +11,7 @@ Mobile programmer interested in learning API Rest technologies and growing as a 
 
 
 ## Techologies what I use:
-<img height="80" alt="php" src="Tecnologias/java.png" /> <img height="80" alt="python" src="https://papercallio-production.s3.amazonaws.com/uploads/event/logo/3551/mid_300_logo_flutter_1080px_clr.png" /><img height="80" alt="javascript" src="Tecnologias/vscode.png"/><img height="80" alt="php" src="https://www.armadilloamarillo.com/wp-content/uploads/logo_android_studio_512dp.png" />
+<img height="80" alt="php" src="Tecnologias/java.png" /> <img height="80" alt="java" src="https://papercallio-production.s3.amazonaws.com/uploads/event/logo/3551/mid_300_logo_flutter_1080px_clr.png" /><img height="80" alt="flutter" src="https://lignux.com/wp-content/uploads/2017/08/visual-studio-code-logo.png"/><img height="80" alt="vscode" src="https://www.armadilloamarillo.com/wp-content/uploads/logo_android_studio_512dp.png" />
 
 
 
