@@ -24,7 +24,7 @@ Mobile programmer interested in learning API Rest technologies and growing as a 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raynou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raynou)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raynou)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
