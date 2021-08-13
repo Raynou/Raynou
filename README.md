@@ -1,4 +1,4 @@
-# 💻 Rafael García Mendoza - @Raynou Backend Developer
+# 💻 Rafael García Mendoza (@Raynou ) - Backend Developer
 
 <div align="center">
     <img src="public/images/decoration/c2.png">
