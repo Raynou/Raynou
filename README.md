@@ -28,3 +28,10 @@
     <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raynou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raynou&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
