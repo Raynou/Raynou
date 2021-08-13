@@ -7,7 +7,6 @@
 <hr>
 
 ### Lenguajes
-<link rel="stylesheet" href="public/styles/express-color.css" type="text/css">
 <div>
     <div style="display: inline_block"><br />
     <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
@@ -22,7 +21,7 @@
 
 <div>
     <div style="display: inline_block"><br />
-    <img  class = "express-ico" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"> 
+    <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"> 
     <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
     <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
     <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
