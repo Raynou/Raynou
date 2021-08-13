@@ -1,10 +1,8 @@
-
 # Rafael García Mendoza - @Raynou backend developer
 
-<div  class="server">
+<div align="center">
     <img src="public/images/decoration/c2.png">
 </div>
-<link rel="stylesheet" type="text/css" href="public/styles/pic-style.css">
 
 <hr>
 
