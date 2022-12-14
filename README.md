@@ -11,7 +11,7 @@
     <div style="display: inline_block"><br />
     <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
     <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+    <!--<img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">-->
     <img  width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg">
 </div>
 
