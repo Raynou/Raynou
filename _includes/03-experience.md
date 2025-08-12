@@ -15,6 +15,7 @@ and QR badge generation for 500 participants, cutting check-in time by 70%.
 
 ## Instituto Tecnológico de Ciudad Madero - Software Developer
 **🗺️ Ciudad Madero, Tamaulipas | 📅 May 2023 - Jan 2024**
+
 - Designed and deployed a Moodle-integrated AI system (JavaScript/PHP + AWS Rekognition) that analyzes student photos to detect emotional states in real-time, enabling educators to identify disengagement or frustration. Stored insights in MySQL for personalized interventions, improving course retention.
 
 - Containerized Moodle using Docker to standardize development environments, reducing setup time by 85% and accelerating feature testing for 5 team members. 

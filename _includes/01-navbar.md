@@ -1,1 +1,1 @@
-[🔎 About](#about) | [💼 Education](#education) | [🎓 Experience](#experience) | [🛠️ Projects](#projects) | [📞 Contact](#contact)
+[🔎 About](#about) | [💼 Experience](#experience) | [🎓 Education](#education) | [🛠️ Projects](#projects) | [📞 Contact](#contact)
