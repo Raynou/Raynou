@@ -10,11 +10,11 @@ layout: default
 
 <br>
 
-{% include 03-education.md %}
+{% include 03-experience.md %}
 
 <br>
 
-{% include 04-experience.md %}
+{% include 04-education.md %}
 
 <br>
 

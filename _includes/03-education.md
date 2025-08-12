@@ -5,4 +5,4 @@ style: "display: none;"
 
 # Education
 
-## ITCM - Instituto Tecnológico de Ciudad Madero - Bachelor's Degree in Computer Systems Engineering 
+- ITCM - Instituto Tecnológico de Ciudad Madero - Bachelor's Degree in Computer Systems Engineering 
