@@ -1,4 +1,4 @@
-## Howdy 🤠 I'm Raynou — Backend Developer
+## Howdy 🤠 I'm Raynou
 
 <!--
 **Raynou/Raynou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
